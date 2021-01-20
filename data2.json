@@ -1,81 +1,6 @@
 [
-    {
-        "categorie": "Student",
-        "values": [
-            {
-                "value": 0,
-                "rate": "Not at all"
-            },
-            {
-                "value": 4,
-                "rate": "Not very much"
-            },
-            {
-                "value": 12,
-                "rate": "Medium"
-            },
-            {
-                "value": 6,
-                "rate": "Very much"
-            },
-            {
-                "value": 0,
-                "rate": "Tremendously"
-            }
-        ]
-    },
-    {
-        "categorie": "Liberal Profession",
-        "values": [
-            {
-                "value": 1,
-                "rate": "Not at all"
-            },
-            {
-                "value": 21,
-                "rate": "Not very much"
-            },
-            {
-                "value": 13,
-                "rate": "Medium"
-            },
-            {
-                "value": 18,
-                "rate": "Very much"
-            },
-            {
-                "value": 6,
-                "rate": "Tremendously"
-            }
-        ]
-    },
-    {
-        "categorie": "Salaried Staff",
-        "values": [
-            {
-                "value": 3,
-                "rate": "Not at all"
-            },
-            {
-                "value": 22,
-                "rate": "Not very much"
-            },
-            {
-                "value": 6,
-                "rate": "Medium"
-            },
-            {
-                "value": 15,
-                "rate": "Very much"
-            },
-            {
-                "value": 3,
-                "rate": "Tremendously"
-            }
-        ]
-    },
-    {
-        "categorie": "Employee",
+        {
+        "categorie": "Taxation",
         "values": [
             {
                 "value": 12,
@@ -100,7 +25,132 @@
         ]
     },
     {
-        "categorie": "Craftsman",
+        "categorie": "Behaviour",
+        "values": [
+            {
+                "value": 6,
+                "rate": "Not at all"
+            },
+            {
+                "value": 6,
+                "rate": "Not very much"
+            },
+            {
+                "value": 6,
+                "rate": "Medium"
+            },
+            {
+                "value": 2,
+                "rate": "Very much"
+            },
+            {
+                "value": 3,
+                "rate": "Tremendously"
+            }
+        ]
+    },
+    {
+        "categorie": "Politics",
+        "values": [
+            {
+                "value": 0,
+                "rate": "Not at all"
+            },
+            {
+                "value": 4,
+                "rate": "Not very much"
+            },
+            {
+                "value": 12,
+                "rate": "Medium"
+            },
+            {
+                "value": 6,
+                "rate": "Very much"
+            },
+            {
+                "value": 0,
+                "rate": "Tremendously"
+            }
+        ]
+    },
+    {
+        "categorie": "Copyright",
+        "values": [
+            {
+                "value": 1,
+                "rate": "Not at all"
+            },
+            {
+                "value": 21,
+                "rate": "Not very much"
+            },
+            {
+                "value": 13,
+                "rate": "Medium"
+            },
+            {
+                "value": 18,
+                "rate": "Very much"
+            },
+            {
+                "value": 6,
+                "rate": "Tremendously"
+            }
+        ]
+    },
+    {
+        "categorie": "Censorship",
+        "values": [
+            {
+                "value": 3,
+                "rate": "Not at all"
+            },
+            {
+                "value": 22,
+                "rate": "Not very much"
+            },
+            {
+                "value": 6,
+                "rate": "Medium"
+            },
+            {
+                "value": 15,
+                "rate": "Very much"
+            },
+            {
+                "value": 3,
+                "rate": "Tremendously"
+            }
+        ]
+    },
+    {
+        "categorie": "Privacy",
+        "values": [
+            {
+                "value": 12,
+                "rate": "Not at all"
+            },
+            {
+                "value": 7,
+                "rate": "Not very much"
+            },
+            {
+                "value": 18,
+                "rate": "Medium"
+            },
+            {
+                "value": 13,
+                "rate": "Very much"
+            },
+            {
+                "value": 6,
+                "rate": "Tremendously"
+            }
+        ]
+    },
+    {
+        "categorie": "Content",
         "values": [
             {
                 "value": 6,
@@ -124,8 +174,33 @@
             }
         ]
     },
+     {
+        "categorie": "Access",
+        "values": [
+            {
+                "value": 0,
+                "rate": "Not at all"
+            },
+            {
+                "value": 4,
+                "rate": "Not very much"
+            },
+            {
+                "value": 12,
+                "rate": "Medium"
+            },
+            {
+                "value": 6,
+                "rate": "Very much"
+            },
+            {
+                "value": 0,
+                "rate": "Tremendously"
+            }
+        ]
+    },
     {
-        "categorie": "Inactive",
+        "categorie": "Competition",
         "values": [
             {
                 "value": 6,
