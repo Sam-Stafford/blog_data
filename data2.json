@@ -24,23 +24,23 @@
             },
                 {
                 "value": 12,
-                "rate": "Not at all"
+                "rate": "Not at all2"
             },
             {
                 "value": 7,
-                "rate": "Not very much"
+                "rate": "Not very much2"
             },
             {
                 "value": 18,
-                "rate": "Medium"
+                "rate": "Medium2"
             },
             {
                 "value": 13,
-                "rate": "Very much"
+                "rate": "Very much2"
             },
             {
                 "value": 6,
-                "rate": "Tremendously"
+                "rate": "Tremendously2"
             }
         ]
     },
