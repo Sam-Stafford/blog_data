@@ -69,23 +69,23 @@
             },
                 {
                 "value": 6,
-                "rate": "Not at all"
+                "rate": "Not at all2"
             },
             {
                 "value": 6,
-                "rate": "Not very much"
+                "rate": "Not very much2"
             },
             {
                 "value": 6,
-                "rate": "Medium"
+                "rate": "Medium2"
             },
             {
                 "value": 2,
-                "rate": "Very much"
+                "rate": "Very much2"
             },
             {
                 "value": 3,
-                "rate": "Tremendously"
+                "rate": "Tremendously2"
             }
         ]
     },
@@ -114,23 +114,23 @@
             },
             {
                 "value": 0,
-                "rate": "Not at all"
+                "rate": "Not at all2"
             },
             {
                 "value": 4,
-                "rate": "Not very much"
+                "rate": "Not very much2"
             },
             {
                 "value": 12,
-                "rate": "Medium"
+                "rate": "Medium2"
             },
             {
                 "value": 6,
-                "rate": "Very much"
+                "rate": "Very much2"
             },
             {
                 "value": 0,
-                "rate": "Tremendously"
+                "rate": "Tremendously2"
             }
         ]
     },
@@ -159,23 +159,23 @@
             },
            {
                 "value": 1,
-                "rate": "Not at all"
+                "rate": "Not at all2"
             },
             {
                 "value": 21,
-                "rate": "Not very much"
+                "rate": "Not very much2"
             },
             {
                 "value": 13,
-                "rate": "Medium"
+                "rate": "Medium2"
             },
             {
                 "value": 18,
-                "rate": "Very much"
+                "rate": "Very much2"
             },
             {
                 "value": 6,
-                "rate": "Tremendously"
+                "rate": "Tremendously2"
             }
         ]
     },
@@ -204,23 +204,23 @@
             },
              {
                 "value": 3,
-                "rate": "Not at all"
+                "rate": "Not at all2"
             },
             {
                 "value": 22,
-                "rate": "Not very much"
+                "rate": "Not very much2"
             },
             {
                 "value": 6,
-                "rate": "Medium"
+                "rate": "Medium2"
             },
             {
                 "value": 15,
-                "rate": "Very much"
+                "rate": "Very much2"
             },
             {
                 "value": 3,
-                "rate": "Tremendously"
+                "rate": "Tremendously2"
             }
         ]
     },
@@ -249,23 +249,23 @@
             },
             {
                 "value": 12,
-                "rate": "Not at all"
+                "rate": "Not at all2"
             },
             {
                 "value": 7,
-                "rate": "Not very much"
+                "rate": "Not very much2"
             },
             {
                 "value": 18,
-                "rate": "Medium"
+                "rate": "Medium2"
             },
             {
                 "value": 13,
-                "rate": "Very much"
+                "rate": "Very much2"
             },
             {
                 "value": 6,
-                "rate": "Tremendously"
+                "rate": "Tremendously2"
             }
         ]
     },
@@ -294,23 +294,23 @@
             },
             {
                 "value": 6,
-                "rate": "Not at all"
+                "rate": "Not at all2"
             },
             {
                 "value": 15,
-                "rate": "Not very much"
+                "rate": "Not very much2"
             },
             {
                 "value": 9,
-                "rate": "Medium"
+                "rate": "Medium2"
             },
             {
                 "value": 12,
-                "rate": "Very much"
+                "rate": "Very much2"
             },
             {
                 "value": 3,
-                "rate": "Tremendously"
+                "rate": "Tremendously2"
             }
         ]
     },
@@ -339,23 +339,23 @@
             },
             {
                 "value": 0,
-                "rate": "Not at all"
+                "rate": "Not at all2"
             },
             {
                 "value": 4,
-                "rate": "Not very much"
+                "rate": "Not very much2"
             },
             {
                 "value": 12,
-                "rate": "Medium"
+                "rate": "Medium2"
             },
             {
                 "value": 6,
-                "rate": "Very much"
+                "rate": "Very much2"
             },
             {
                 "value": 0,
-                "rate": "Tremendously"
+                "rate": "Tremendously2"
             }
         ]
     },
@@ -384,23 +384,23 @@
             },
             {
                 "value": 6,
-                "rate": "Not at all"
+                "rate": "Not at all2"
             },
             {
                 "value": 6,
-                "rate": "Not very much"
+                "rate": "Not very much2"
             },
             {
                 "value": 6,
-                "rate": "Medium"
+                "rate": "Medium2"
             },
             {
                 "value": 2,
-                "rate": "Very much"
+                "rate": "Very much2"
             },
             {
                 "value": 3,
-                "rate": "Tremendously"
+                "rate": "Tremendously2"
             }
         ]
     }
