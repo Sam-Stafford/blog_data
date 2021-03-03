@@ -1,6 +1,6 @@
 [
         {
-        "categorie": "Taxation",
+        "Topic": "Taxation",
         "values": [
             {
                 "value": 12,
@@ -45,7 +45,7 @@
         ]
     },
     {
-        "categorie": "Behaviour",
+        "Topic": "Behaviour",
         "values": [
             {
                 "value": 6,
@@ -90,7 +90,7 @@
         ]
     },
     {
-        "categorie": "Politics",
+        "Topic": "Politics",
         "values": [
             {
                 "value": 0,
@@ -135,7 +135,7 @@
         ]
     },
     {
-        "categorie": "Copyright",
+        "Topic": "Copyright",
         "values": [
             {
                 "value": 1,
@@ -180,7 +180,7 @@
         ]
     },
     {
-        "categorie": "Censorship",
+        "Topic": "Censorship",
         "values": [
             {
                 "value": 3,
@@ -225,7 +225,7 @@
         ]
     },
     {
-        "categorie": "Privacy",
+        "Topic": "Privacy",
         "values": [
             {
                 "value": 12,
@@ -270,7 +270,7 @@
         ]
     },
     {
-        "categorie": "Content",
+        "Topic": "Content",
         "values": [
             {
                 "value": 6,
@@ -315,7 +315,7 @@
         ]
     },
      {
-        "categorie": "Access",
+        "Topic": "Access",
         "values": [
             {
                 "value": 0,
@@ -360,7 +360,7 @@
         ]
     },
     {
-        "categorie": "Competition",
+        "Topic": "Competition",
         "values": [
             {
                 "value": 6,
