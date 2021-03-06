@@ -1,6 +1,6 @@
 [
     {
-        "categorie": "Student",
+        "Topic": "Student",
         "values": [
             {
                 "value": 0,
@@ -25,7 +25,7 @@
         ]
     },
     {
-        "categorie": "Liberal Profession",
+        "Topic": "Liberal Profession",
         "values": [
             {
                 "value": 1,
